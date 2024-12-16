@@ -1,6 +1,6 @@
-# **Ramón - Data Science Enthusiast | PhD Candidate**
+# **Ramón - Data Science | PhD Candidate**
 
-¡Hola! Soy Ramón, doctorando en Bioquímica en la Fundación Instituto Leloir - CONICET. Actualmente estoy buscando oportunidades para aplicar mis habilidades en Data Science en una empresa.
+Hola! Soy Ramón, doctorando en Bioquímica en la Fundación Instituto Leloir - CONICET. Actualmente estoy buscando oportunidades para aplicar mis habilidades en Data Science en una empresa.
 
 ## **Sobre mí**
 
